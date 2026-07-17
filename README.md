@@ -48,7 +48,7 @@ I'm a Computer Science and Engineering undergraduate at **College of Engineering
 ## 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,javascript,typescript,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,sql"/>
 </p>
 
 ## 🎨 Frontend
@@ -72,7 +72,7 @@ I'm a Computer Science and Engineering undergraduate at **College of Engineering
 ## 📱 Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,react"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,react"/>
 </p>
 
 ## 🛠 Tools & Platforms
