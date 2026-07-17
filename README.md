@@ -22,8 +22,6 @@
 
 I'm a Computer Science and Engineering undergraduate at **College of Engineering Guindy (CEG), Anna University, Chennai**, building software that solves real problems for real people.
 
-I'm especially drawn to technology that serves the **Indian working way** — disaster response systems, rural welfare access, and civic infrastructure that works for low-literacy, multilingual, low-connectivity contexts, not just polished demos. Most of my recent work sits at the intersection of full-stack engineering, real-time systems, and AI — with a strong bias toward shipping production-ready, complete solutions rather than proofs of concept.
-
 - 🎓 CSE Undergraduate, CEG Anna University
 - 🇮🇳 Building for Indian social impact — disaster response, rural welfare, civic tech
 - 💻 Full Stack Developer (MERN + TypeScript)
