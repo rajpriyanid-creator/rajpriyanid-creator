@@ -24,8 +24,6 @@
 
 I'm a Computer Science and Engineering undergraduate at **College of Engineering Guindy (CEG), Anna University, Chennai**, building software that solves real problems for real people.
 
-I'm especially drawn to technology that solves real-world problems — disaster response systems, rural access platforms, and civic infrastructure that works even in low-literacy, multilingual, low-connectivity contexts, not just polished demos. Most of my recent work sits at the intersection of full-stack engineering, real-time systems, and AI — with a strong bias toward shipping production-ready, complete solutions rather than proofs of concept.
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="280">
 </p>
