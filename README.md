@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Rajpriyan S
 
-### 💻 Full Stack Developer • 🇮🇳 Building Tech for Bharat • 🏆 Hackathon Builder • 📱 Android Developer
+### 💻 Full Stack Developer  • 🏆 Hackathon Builder • 📱 Android Developer
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=Building+Tech+for+Indian+Social+Impact;Disaster+Response+%7C+Rural+Access+%7C+Civic+Tech;Full+Stack+%7C+MERN+%2B+TypeScript;Backend+%7C+Android+%7C+Real-time+Systems" />
