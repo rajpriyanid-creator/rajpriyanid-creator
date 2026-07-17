@@ -2,10 +2,10 @@
 
 # Hi 👋, I'm Rajpriyan S
 
-### 💻 Full Stack Developer  • 🏆 Hackathon Builder • 📱 Android Developer
+### 💻 Full Stack Developer • 📱 Android Developer • ⚙️ Real-Time Systems • 🌍 Tech for Social Impact
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=Building+Tech+for+Indian+Social+Impact;Disaster+Response+%7C+Rural+Access+%7C+Civic+Tech;Full+Stack+%7C+MERN+%2B+TypeScript;Backend+%7C+Android+%7C+Real-time+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=Building+Tech+for+Social+Impact;Full+Stack+Developer;Backend+%7C+Android+%7C+Real-time+Systems;Always+Learning+New+Technologies" />
 </p>
 
 <p>
@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/github/followers/rajpriyanid-creator?label=Followers&style=flat&logo=github" />
   <img src="https://img.shields.io/github/stars/rajpriyanid-creator?affiliations=OWNER&style=flat&logo=github" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 
 </div>
 
@@ -22,18 +24,28 @@
 
 I'm a Computer Science and Engineering undergraduate at **College of Engineering Guindy (CEG), Anna University, Chennai**, building software that solves real problems for real people.
 
+I'm especially drawn to technology that solves real-world problems — disaster response systems, rural access platforms, and civic infrastructure that works even in low-literacy, multilingual, low-connectivity contexts, not just polished demos. Most of my recent work sits at the intersection of full-stack engineering, real-time systems, and AI — with a strong bias toward shipping production-ready, complete solutions rather than proofs of concept.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="280">
+</p>
+
 - 🎓 CSE Undergraduate, CEG Anna University
-- 🇮🇳 Building for Indian social impact — disaster response, rural welfare, civic tech
+- 🌍 Building for real-world social impact — disaster response, rural access, civic tech
 - 💻 Full Stack Developer (MERN + TypeScript)
 - ⚙️ Real-time systems — Socket.IO, Redis/BullMQ job queues
 - 🌐 Graph databases & AI-driven platforms — Neo4j, multilingual AI (Sarvam AI)
 - 📱 Android & cross-platform mobile (Expo / React Native)
-- 🏆 Active hackathon builder
+- 🔥 Ships production-ready, end-to-end solutions
 - 🌱 Always learning
 
 ---
 
 # 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="400">
+</p>
 
 ## 👨‍💻 Languages
 
@@ -159,6 +171,8 @@ https://www.instagram.com/rajpriyan_s
 ---
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
 
 ## 💭 Quote
 
